@@ -1,0 +1,28 @@
+Enter the number of item: 
+5
+Enter the value of all items (separated by space): 
+9
+6
+4
+7
+2
+
+0:
+*********(9)
+
+
+1:
+******(6)
+
+
+2:
+****(4)
+
+
+3:
+*******(7)
+
+
+4:
+**(2)
+
